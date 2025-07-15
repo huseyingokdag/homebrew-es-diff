@@ -1,5 +1,5 @@
 # homebrew-es-diff
-Homebrew Tap for the es-diff CLI.
+Homebrew Tap for the [es-diff](https://github.com/huseyingokdag/es-diff) CLI.
 
 ## Installation
 
