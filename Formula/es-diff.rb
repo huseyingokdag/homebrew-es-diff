@@ -3,8 +3,8 @@ class EsDiff < Formula
 
   desc "Compare two Elasticsearch indices and output differences to a CSV file"
   homepage "https://github.com/huseyingokdag/es-diff"
-  url "https://github.com/huseyingokdag/es-diff/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "7fc0360ebcf0616cec9f7020abc2a3e5d8aeb805f95603c8adf502ba0d44eaa3"
+  url "https://github.com/huseyingokdag/es-diff/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "968dcfcde2f8289ac33ace20a3d42bc9059fa542fb1ef6363a10a04e07fa56d0"
   license "MIT"
 
   depends_on "python@3.12"
